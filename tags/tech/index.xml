@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>tech - Tag - 我的全新 Hugo 网站</title>
+        <link>https://xiangkezhang27.github.io/tags/tech/</link>
+        <description>tech - Tag - 我的全新 Hugo 网站</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 01 Jun 2023 15:40:00 &#43;0800</lastBuildDate><atom:link href="https://xiangkezhang27.github.io/tags/tech/" rel="self" type="application/rss+xml" /><item>
+    <title>First_post</title>
+    <link>https://xiangkezhang27.github.io/posts/first_post/</link>
+    <pubDate>Thu, 01 Jun 2023 15:40:00 &#43;0800</pubDate>
+    <author>xiangkeZhang27</author>
+    <guid>https://xiangkezhang27.github.io/posts/first_post/</guid>
+    <description><![CDATA[集齐小浣熊干脆面108将卡,得吃多少袋干脆面？ 两种方法： 通过公式来计算数学期望 通过级数来算平均值(也是期望) 1. 2.]]></description>
+</item>
+</channel>
+</rss>

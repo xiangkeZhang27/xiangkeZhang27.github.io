@@ -3,5 +3,21 @@
         <title>Categories - Category - 我的全新 Hugo 网站</title>
         <link>https://xiangkezhang27.github.io/categories/</link>
         <description>Categories - Category - 我的全新 Hugo 网站</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://xiangkezhang27.github.io/categories/" rel="self" type="application/rss+xml" /></channel>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 01 Jun 2023 18:07:46 &#43;0800</lastBuildDate><atom:link href="https://xiangkezhang27.github.io/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>life-style</title>
+    <link>https://xiangkezhang27.github.io/categories/life-style/</link>
+    <pubDate>Thu, 01 Jun 2023 18:07:46 &#43;0800</pubDate>
+    <author>xiangkeZhang27</author>
+    <guid>https://xiangkezhang27.github.io/categories/life-style/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>study</title>
+    <link>https://xiangkezhang27.github.io/categories/study/</link>
+    <pubDate>Thu, 01 Jun 2023 15:40:00 &#43;0800</pubDate>
+    <author>xiangkeZhang27</author>
+    <guid>https://xiangkezhang27.github.io/categories/study/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
 </rss>
